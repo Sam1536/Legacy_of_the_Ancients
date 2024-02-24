@@ -1,5 +1,6 @@
 # Legacy_of_the_Ancients
- Protótipo RPG 3D, penas para estudos
+
+Explorador Dimensional" é um protótipo de RPG 3D em fase de estudo. Os jogadores podem mergulhar em uma experiência de aventura, enfrentando desafios em um ambiente envolvente. Este projeto visa aprimorar habilidades no desenvolvimento de jogos 3D.
 
  # Inventario
 ![ezgif-4-3803a22c6dPART1-ezgif com-video-to-gif-converter-PART1](https://github.com/Sam1536/Legacy_of_the_Ancients/assets/89424721/12a7dd93-1d6e-4d88-b392-95dc448d5639)
